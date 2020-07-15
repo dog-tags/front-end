@@ -85,27 +85,14 @@ export default function Landing() {
         </Flex>
         <Card taLeft p="3rem" stretch invert>
           <Flex drape>
-            <Text as="a" lf bold href="/demo" pointer>
-              Go to Demo page.
+            <Text as="a" lf bold href="/1" pointer>
+              Go to Demo pet page.
             </Text>
             <Text as="p" m="2rem 0" maxW="60rem">
-              Best Markdown Editor is a online markdown editor progressive web
-              app. You can install it to your any computer or mobile device. If
-              you have the grammarly extension in the browser you used to
-              install Best Markdown Editor, you will have an app that uses your
-              grammarly account to spell check your work!
-            </Text>
-            <Text as="p" m="2rem 0" maxW="60rem">
-              In addition, we also help you keep track of your files. You can
-              create new files, edit files, and delete files. You can even
-              export them as a markdown file to your computer.
-            </Text>
-            <Text as="p" m="2rem 0" maxW="60rem">
-              All and all, this is a pretty simple web app that's meant to be
-              simple. If you're like me, and you write markdown for multiple
-              platforms and constantly posting blogs to different mediums, it's
-              nice to have one simple place where you can keep track of
-              everything.
+              MyPage.Pet brings you top quality collars for your pet and lets
+              you create pages for your pet. Each collar comes with a unique QR
+              code that can be scanned and will take you that pets page, where
+              you can see more information about the pet and it's owner(s).
             </Text>
           </Flex>
         </Card>
